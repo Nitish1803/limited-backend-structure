@@ -4,14 +4,6 @@
 
 A Limited back end structure for an eCommerce application. Allows users to fetch data from database of products and categories. Can be accessed and interacted with via an API client such as [Postman](https://www.postman.com/product/api-client/).
 
-## Table of Contents 
-
-* [Installation](#installation)
-* [Usage](#usage)
-  * [Routes](#Routes)
-    * [Product Endpoints](#/api/products/id)
-    * [Category Endpoints](#/api/categories/id)
-
 ## Installation
 
 1. Clone this repo. Install dependencies by running `pip install -r requirements.txt`.
