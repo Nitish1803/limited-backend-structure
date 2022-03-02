@@ -50,4 +50,4 @@ Example response from GET with filtering:
  - GET
  - GET returns available categories
 
-![Category GET](./Assets/all-categories.png?raw=true)
+![Category GET](./assets/all-categories.png?raw=true)
